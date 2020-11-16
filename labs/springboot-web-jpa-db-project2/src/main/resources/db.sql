@@ -1,0 +1,1 @@
+insert into employee values('1234','sujit','sujit@gmail.com')
